@@ -1,3 +1,10 @@
+% Copyright (c) 2024 John Hillary
+% This file is part of MATLAB-system.
+% Licensed under the MIT.
+% See LICENSE file in the project root for more information.
+%This scrpt is credited to Copyright @ Dr. Sudip Mandal,As-
+sistant Professor, Jalpaiguri Government Engineering College, ECE Department,West Bengal, India, PIN-735102, Digital Communication Lab.
+
 clear all;
 close all;
 clc;
