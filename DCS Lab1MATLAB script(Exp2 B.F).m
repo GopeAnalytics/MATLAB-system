@@ -1,3 +1,8 @@
+% Copyright (c) 2024 John Hillary
+% This file is part of MATLAB-system.
+% Licensed under the MIT.
+% See LICENSE file in the project root for more information.
+
 tot = 1;
 td = 0.002;
 t = 0:td:tot;
